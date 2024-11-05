@@ -5,8 +5,7 @@ sudo apt install python3 python3-dev git curl build-essential dkms perl wget gcc
 
 curl -L https://github.com/pyenv/pyenv-installer/raw/master/bin/pyenv-installer | bash
 
-sudo apt install zsh -y
-chsh -s /bin/zsh
+# You need to install ZSH first
 
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.zshrc
 echo '[[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.zshrc

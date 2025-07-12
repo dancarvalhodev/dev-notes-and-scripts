@@ -1,7 +1,2 @@
-# Configurations
-
-## Tips
-- You need to install the MesloFont and set into terminal app.
-- You need to install the FiraCodeFont and set into visual studio code app.
-
-
+# Notas DEV e Scripts
+Este repositório concentra anotações relacionadas à vida de desenvolvimento e alguns scripts para automação.
